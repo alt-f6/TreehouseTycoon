@@ -1,0 +1,15 @@
+# Roblox / Luau
+*.rbxl*
+*.rbxm*
+/roblox_packages/
+/sourcemap.json
+roblox.{yml,yaml,toml}
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# System
+.DS_Store
+.cache/
+dist/
