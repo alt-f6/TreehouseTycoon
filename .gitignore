@@ -1,5 +1,5 @@
 # Roblox / Luau
-*.rbxl*
+# *.rbxl*
 *.rbxm*
 /roblox_packages/
 /sourcemap.json
